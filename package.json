@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/msholty-fd/question-app.git"
+    "url": "git+https://github.com/Thill799/question-app.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/msholty-fd/question-app/issues"
+    "url": "https://github.com/Thill799/question-app/issues"
   },
-  "homepage": "https://github.com/msholty-fd/question-app#readme",
+  "homepage": "https://github.com/Thill799/question-app#readme",
   "dependencies": {
     "express": "^4.16.4",
     "mongodb": "^3.2.2"
